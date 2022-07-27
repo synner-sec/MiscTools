@@ -1,3 +1,4 @@
+# Commands to create stable reverse shell
 python -c "import pty; pty.spawn('/bin/bash')"
 ctrl-z to foreground 
 stty raw -echo
