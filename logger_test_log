@@ -1,0 +1,1 @@
+logger -p daemon.debug "Put test log message here" -n loghost-to-send-to -P port
